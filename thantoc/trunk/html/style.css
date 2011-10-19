@@ -268,7 +268,8 @@ a:hover {color: #336699;
 		}
 	
 	.p-item .summary {
-		font-size:11px;
+		font-size:14px;
+		line-height: inherit;
 		}
 		
 #sidebar-right{
