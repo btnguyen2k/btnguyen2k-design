@@ -262,7 +262,7 @@ a:hover {color: #336699;
 		}
 		
 	.p-item .title {
-		font-size:14px;
+		font-size:16px;
 		font-weight:bold;
 		text-transform:uppercase;
 		}
@@ -272,6 +272,13 @@ a:hover {color: #336699;
 		line-height: inherit;
 		}
 		
+#sidebar-left{
+	float:left;
+	width:300px;
+	margin: 20px 10px 20px 0;
+	}
+
+
 #sidebar-right{
 	float:right;
 	width:300px;
