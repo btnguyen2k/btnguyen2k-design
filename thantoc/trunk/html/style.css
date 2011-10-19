@@ -14,6 +14,26 @@ a {
 a:hover {color: #336699;
 	text-decoration: none;}
 
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	}
+
+img {
+    border: none;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+	margin:0;
+	padding:0;
+	color:#737373;
+	}
+
+
+
+
+
 #topbar {
 	background-color: rgba(0,0,0,0.7);
 	height:25px;
@@ -211,7 +231,7 @@ a:hover {color: #336699;
 		text-align: center;
 	}
 	
-	#intro p {
+	#intro .text {
 		font-size: 14px;
 		line-height: 16px;
 		padding:0 5px 5px 5px;
@@ -271,13 +291,69 @@ a:hover {color: #336699;
 		font-size:14px;
 		line-height: inherit;
 		}
+	
+	#post-holder {
+		width:620px;
+		float:left;
+		margin: 10px 0 0 20px;
+		}
 		
+	.post-title {
+		width:100%;
+		float:left;
+		font-size:18px;
+		color:#737373;
+		border-bottom:1px solid #737373;
+		text-transform:uppercase;
+		font-weight:bold;
+		margin-bottom:10px;
+		}
+		
+	.post-content {
+		font-size:14px;
+		line-height: inherit;
+		}
+	
+	.post-content p, .post-content h3, .post-content h4 {
+		margin:8px;
+	}
+	
 #sidebar-left{
 	float:left;
-	width:300px;
-	margin: 20px 10px 20px 0;
+	width:250px;
+	margin: 0px 10px 20px 0;
+	border-right: 2px solid #e7e4e4;
 	}
 
+#v-menu {
+	width: 200px;
+	margin: 10px 10px 10px 30px;
+	text-align:right;
+	}
+	
+#v-menu li a {
+	height: 32px;
+  	voice-family: "\"}\""; 
+  	voice-family: inherit;
+  	height: 24px;
+	text-decoration: none;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:14px;
+	}	
+	
+#v-menu li a:link, #v-menu li a:visited {
+	color: #737373;
+	display: block;
+	padding: 8px 15px 0 30px;
+	}
+	
+#v-menu li a:hover, #v-menu li a.active {
+	color: #fff;
+	padding: 8px 15px 0 30px;
+	background:#999;
+	}
+	
 
 #sidebar-right{
 	float:right;
@@ -329,9 +405,9 @@ a:hover {color: #336699;
 		padding:0 10px;
 	}
 	
-	#credit p {
-		
-		color:#fff;
+	 .text {
+		color:#737373;
 		font-size: 12px;
 		text-align: center;
+		margin:5px;
 		}
