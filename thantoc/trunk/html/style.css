@@ -1,4 +1,10 @@
 
+
+@font-face {
+	font-family: AptimaBold;	src: url('font/UTM AptimaBold.ttf');
+}
+
+
 body {
 	width:960px;
 	margin: 0 auto;
@@ -27,7 +33,6 @@ img {
 p, h1, h2, h3, h4, h5, h6 {
 	margin:0;
 	padding:0;
-	color:#737373;
 	}
 
 
@@ -109,6 +114,7 @@ p, h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 	text-transform: uppercase;
 	text-decoration: none;
+	font-family: AptimaBold;
 }
 #menu li a:hover, #menu li a:active {
 	background: #ccc;
@@ -118,6 +124,7 @@ p, h1, h2, h3, h4, h5, h6 {
 	border:1px solid #fff;
 	display: block;
 	text-decoration: none;
+	font-family: AptimaBold;
 }
 #menu li li a, #menu li li a:link, #menu li li a:visited {
 	background: #fff;
@@ -216,9 +223,10 @@ p, h1, h2, h3, h4, h5, h6 {
 		font-size: 25px;
 		font-weight: bold;
 		text-transform: uppercase;
-		margin: 15px 0 10px 10px;
+		margin: 5px 0 10px 10px;
 		color:#fff;
 		text-shadow: #515151 0.1em 0.1em 0.1em;
+		font-family: AptimaBold;
 		}
 	
 	#intro .col-title {
@@ -282,14 +290,17 @@ p, h1, h2, h3, h4, h5, h6 {
 		}
 		
 	.p-item .title {
-		font-size:16px;
+		font-size:18px;
 		font-weight:bold;
 		text-transform:uppercase;
+		margin-bottom: 5px;
+		font-family: AptimaBold;
 		}
 	
 	.p-item .summary {
 		font-size:14px;
 		line-height: inherit;
+		padding:3px;
 		}
 	
 	#post-holder {
@@ -306,7 +317,8 @@ p, h1, h2, h3, h4, h5, h6 {
 		border-bottom:1px solid #737373;
 		text-transform:uppercase;
 		font-weight:bold;
-		margin-bottom:10px;
+		margin-bottom:20px;
+		font-family: AptimaBold;
 		}
 		
 	.post-content {
@@ -340,6 +352,7 @@ p, h1, h2, h3, h4, h5, h6 {
 	text-transform:uppercase;
 	font-weight:bold;
 	font-size:14px;
+	font-family: AptimaBold;
 	}	
 	
 #v-menu li a:link, #v-menu li a:visited {
@@ -352,6 +365,7 @@ p, h1, h2, h3, h4, h5, h6 {
 	color: #fff;
 	padding: 8px 15px 0 30px;
 	background:#999;
+	font-family: AptimaBold;
 	}
 	
 
@@ -391,7 +405,52 @@ p, h1, h2, h3, h4, h5, h6 {
 		
 		}
 		
+		#price-list{
+		width: 100%;
+		float:left;
+		margin: 20px 0;	
+			}
 		
+		.price-item {
+			float:left;
+			width:100%;
+			margin: 10px 0;
+			}
+			
+		.price-image {
+			float:left;
+			margin:10px;
+			margin: 0px 10px 10px 40px
+			
+			}	
+		
+		.ptitle {
+			width:250px;
+			float:left;
+			font-weight: bold;
+			font-size: 16px;
+			margin: 0 0px 0 20px;
+			border:1px solid #ccc;
+			border-bottom:none;
+			padding: 3px 0 3px 10px;
+			}
+		
+		.pcontent {
+			width:200px;
+			float:left;
+			font-size: 16px;
+			margin: 0 3px 0 0px;
+			padding: 3px 10px;
+			border:1px solid #ccc;
+			border-left: none;
+			border-bottom: none;
+			}
+			
+		.discount {
+				float:absolute;
+				margin: -10px 0 0 -50px;
+				z-index:999;
+			}
 		
 #main{}
 
