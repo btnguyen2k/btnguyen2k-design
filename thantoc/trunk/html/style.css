@@ -204,6 +204,17 @@ p, h1, h2, h3, h4, h5, h6 {
 		border: solid 1px #ccc;
 	}
 	
+	.image-shadow {
+		-moz-box-shadow: 3px 3px 3px #000;
+		-webkit-box-shadow: 3px 3px 3px #000;
+		box-shadow: 3px 3px 3px #000;
+		/* For IE 8 */
+		-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+		/* For IE 5.5 - 7 */
+		filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000000');
+	}
+
+	
 .ribbon {
 	float:left;
 	background:url('images/ribbon.png') no-repeat;
@@ -299,7 +310,7 @@ p, h1, h2, h3, h4, h5, h6 {
 	
 	.p-item .summary {
 		font-size:14px;
-		line-height: inherit;
+		line-height: 18px;
 		padding:3px;
 		}
 	
@@ -436,7 +447,7 @@ p, h1, h2, h3, h4, h5, h6 {
 			}
 		
 		.pcontent {
-			width:200px;
+			width:150px;
 			float:left;
 			font-size: 16px;
 			margin: 0 3px 0 0px;
