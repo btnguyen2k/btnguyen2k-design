@@ -119,7 +119,7 @@ p, h1, h2, h3, h4, h5, h6 {
 #menu li a:hover, #menu li a:active {
 	background: #ccc;
 	margin: 0px;
-	padding: 7px 10px 3px 10px;
+	padding: 5px 10px;
 	color: #000;
 	border:1px solid #fff;
 	display: block;
@@ -463,6 +463,24 @@ p, h1, h2, h3, h4, h5, h6 {
 				z-index:999;
 			}
 		
+		.pricing-all {
+			width:90%; 
+			margin: -20px 0 0 50px;
+			}
+			
+		.pricing-info {
+			margin: 10px 50px;
+			color:#737373;
+			}
+		
+		.pricing-title {
+			margin: 3px 5px 10px 0;
+			float:left;
+			}
+		
+		.pricing-content {
+			float:left;
+			}
 #main{}
 
 #footer{
