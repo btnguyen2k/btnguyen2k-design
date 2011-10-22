@@ -32,7 +32,7 @@
 		<div id="menu">
 			<ul>
 				<li><a href="index.html">Trang chủ</a></li>
-				<li><a href="intro.html">Giới thiệu</a></li>
+				<li><a href="about.html">Giới thiệu</a></li>
 				<li><a href="feature.html">Chức năng</a></li>
 				<li><a href="pricing.html">Bảng giá</a></li>
 				<li><a href="process.html">Qui trình</a></li>
@@ -62,11 +62,11 @@
         	<div id="p-standard">
         		<img src="images/pricing/raovat.png"/>
         		<img src="images/pricing/nhadat.png"/>
-						<img src="images/pricing/thoitrang.png"/>
-						<img src="images/pricing/tmdt.png"/>
-						<img src="images/pricing/tuyendung.png"/>
-						<img src="images/pricing/giaitri.png"/>
-						<img src="images/pricing/amthuc.png"/>
+				<img src="images/pricing/thoitrang.png"/>
+				<img src="images/pricing/tmdt.png"/>
+				<img src="images/pricing/tuyendung.png"/>
+				<img src="images/pricing/giaitri.png"/>
+				<img src="images/pricing/amthuc.png"/>
         	</div>
         	
         	<div id="p-enterprise">
@@ -81,8 +81,8 @@
         	<div id="p-note">
         		<img src="images/pricing/luuy.png"/>
         		<img src="images/pricing/report.png"/>
-						<img src="images/pricing/payment.png"/>
-					</div>
+				<img src="images/pricing/payment.png"/>
+			</div>
         	
             <!--<div class="pricing-info">
             	<div class="pricing-title"><strong><span style="color: #0C3">KHUYẾN MÃI:</span></strong> Đối với Gói <strong>STANDARD</strong>, quý Khách hàng được giảm giá 30% cho tháng đầu tiên đăng tin thử nghiệm.</div>
@@ -141,31 +141,33 @@ email</li>
     		$('#p-note').hide();
     		
     		//standard clicked
-  			$("#standard").click(function(){
+  			$("#standard").click(function(event){
   				$('#p-standard').show(1000);
   				//hide other
   				$('#p-enterprise').hide(1000);
   				$('#p-optional').hide(1000);
   				$('#p-note').show(2000);
+  				event.preventDefault();
   			});
   				
   				//enterprise clicked
-  			$("#enterprise").click(function(){
+  			$("#enterprise").click(function(event){
   				$('#p-enterprise').show(1000);
   				//hide other
   				$('#p-standard').hide(1000);
   				$('#p-optional').hide(1000);
   				$('#p-note').show(2000);
+  				event.preventDefault();
   			});
   				
   				//optional clicked
-  			$("#optional").click(function(){
+  			$("#optional").click(function(event){
   				$('#p-optional').show(1000);
   				//hide other
   				$('#p-enterprise').hide(1000);
   				$('#p-standard').hide(1000);
   				$('#p-note').show(2000);
-  				
+  				event.preventDefault();
   			});
 			});
 			
