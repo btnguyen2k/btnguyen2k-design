@@ -481,6 +481,36 @@ p, h1, h2, h3, h4, h5, h6 {
 		.pricing-content {
 			float:left;
 			}
+			
+		#price-detail {
+			float:left;
+			width:960px;
+			margin: 0px 50px 20px 50px
+			}
+		
+		#price-detail ul, #price-detail ul li, #price-detail li {
+			float:left;
+			margin:0;
+			padding:0;
+			list-style-type: none;
+			}
+		
+		#price-detail li {
+			padding:0 110px;
+			}
+		
+		#price-detail li a {
+			float:left;
+			display: block;
+			text-transform: uppercase;
+			}
+			
+		#p-standard, #p-enterprise, #p-optional, #p-note {
+			float:left;
+			margin:0;
+			padding:10px 120px;
+			}	
+		
 #main{}
 
 #footer{
