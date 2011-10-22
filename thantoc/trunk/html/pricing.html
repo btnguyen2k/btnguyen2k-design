@@ -51,7 +51,40 @@
         <div id="price-list">
         	<img class="pricing-all" src="images/pricing/pricing-all.png" />
         	
-            <div class="pricing-info">
+        	<div>
+        		<ul id="price-detail">
+        			<li><a href="#" id="standard">Chi tiết</a></li>
+        			<li><a href="#" id="enterprise">Chi tiết</a></li>
+        			<li><a href="#" id="optional">Chi tiết</a></li>
+        		</ul>
+        	</div>
+        	
+        	<div id="p-standard">
+        		<img src="images/pricing/raovat.png"/>
+        		<img src="images/pricing/nhadat.png"/>
+						<img src="images/pricing/thoitrang.png"/>
+						<img src="images/pricing/tmdt.png"/>
+						<img src="images/pricing/tuyendung.png"/>
+						<img src="images/pricing/giaitri.png"/>
+						<img src="images/pricing/amthuc.png"/>
+        	</div>
+        	
+        	<div id="p-enterprise">
+        		<img src="images/pricing/enterprise.png"/>
+        	</div>
+        	
+        	<div id="p-optional">
+        		<img src="images/pricing/optional1.png"/>
+        		<img src="images/pricing/optional2.png"/>
+        	</div>
+        	
+        	<div id="p-note">
+        		<img src="images/pricing/luuy.png"/>
+        		<img src="images/pricing/report.png"/>
+						<img src="images/pricing/payment.png"/>
+					</div>
+        	
+            <!--<div class="pricing-info">
             	<div class="pricing-title"><strong><span style="color: #0C3">KHUYẾN MÃI:</span></strong> Đối với Gói <strong>STANDARD</strong>, quý Khách hàng được giảm giá 30% cho tháng đầu tiên đăng tin thử nghiệm.</div>
                     
                     
@@ -80,7 +113,9 @@ trình quảng cáo.</li>
 email</li>
 			</ul>
 			</div> 
-			</div>
+			</div>-->
+			
+			
         </div> <!-- END #price-list -->
         
        
@@ -97,9 +132,43 @@ email</li>
 	<script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
     <script type="text/javascript" src="nivo-slider/jquery.nivo.slider.pack.js"></script>
     <script type="text/javascript">
-    $(window).load(function() {
-        $('#slider').nivoSlider();
-    });
+    	
+    	$(document).ready(function(){
+    		
+    		$("#p-standard").hide();
+    		$('#p-enterprise').hide();
+    		$('#p-optional').hide();
+    		$('#p-note').hide();
+    		
+    		//standard clicked
+  			$("#standard").click(function(){
+  				$('#p-standard').show(1000);
+  				//hide other
+  				$('#p-enterprise').hide(1000);
+  				$('#p-optional').hide(1000);
+  				$('#p-note').show(2000);
+  			});
+  				
+  				//enterprise clicked
+  			$("#enterprise").click(function(){
+  				$('#p-enterprise').show(1000);
+  				//hide other
+  				$('#p-standard').hide(1000);
+  				$('#p-optional').hide(1000);
+  				$('#p-note').show(2000);
+  			});
+  				
+  				//optional clicked
+  			$("#optional").click(function(){
+  				$('#p-optional').show(1000);
+  				//hide other
+  				$('#p-enterprise').hide(1000);
+  				$('#p-standard').hide(1000);
+  				$('#p-note').show(2000);
+  				
+  			});
+			});
+			
     </script>
 </body>
 
