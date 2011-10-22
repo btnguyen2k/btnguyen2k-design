@@ -301,7 +301,9 @@ p, h1, h2, h3, h4, h5, h6 {
 		}
 		
 	.p-item .title {
-		font-size:18px;
+		float:left;
+		width:190px;
+		font-size:14px;
 		font-weight:bold;
 		text-transform:uppercase;
 		margin-bottom: 5px;
@@ -314,6 +316,46 @@ p, h1, h2, h3, h4, h5, h6 {
 		padding:3px;
 		}
 	
+	
+	#p-list1 {
+		float:left;
+		width:620px;
+		margin:20px 0;
+		
+		}
+		
+	.p-item1 {
+		float:left;
+		width:100%;
+		margin:10px 10px 10px 0;
+		}
+	
+	.p-item1 .thumb {
+		float:left;
+		width:128px;
+		height:128px;
+		border:none;
+		margin-right:20px;
+		}
+		
+	.p-item1 .title1 {
+		float:left;
+		width:450px;
+		font-size:18px;
+		font-weight:bold;
+		text-transform:uppercase;
+		margin-bottom: 5px;
+		font-family: AptimaBold;
+		}
+	
+	.p-item1 .summary1 {
+		font-size:14px;
+		line-height: 18px;
+		padding:3px;
+		width:500px;
+		}
+		
+		
 	#post-holder {
 		width:620px;
 		float:left;
