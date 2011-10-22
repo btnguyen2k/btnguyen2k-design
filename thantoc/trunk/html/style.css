@@ -107,7 +107,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 #menu li a, #menu li a:link, #menu li a:visited {
 	margin: 0px;
-	padding: 5px 10px;
+	padding: 5px 12px 5px 10px;
 	color: #fff;
 	display: block;
 	font-size: 14px;
@@ -131,7 +131,7 @@ p, h1, h2, h3, h4, h5, h6 {
 	width: 100px;
 	float: none;
 	margin: 0px;
-	padding: 6px 15px 6px 15px;
+	padding: 6px 15px;
 	color: #333;
 	font-weight: normal;
 	border-left: 1px solid #e6e6e6;
@@ -140,7 +140,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 #menu li li a:hover, #menu li li a:active {
 	background: #5CA12F;
-	padding: 6px 15px 6px 15px;
+	padding: 6px 15px;
 	color: #fff;
 	border-left: 1px solid #e6e6e6;
 	border-right: 1px solid #e6e6e6;
