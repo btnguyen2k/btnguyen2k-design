@@ -265,13 +265,15 @@ p, h1, h2, h3, h4, h5, h6 {
 		margin: 10px 0 10px 0;
 		padding:0;
 	}	
-	#col1 { margin-left: 20px;}
+	#col1 { margin-left: 20px;
+		background: url('images/blue_box.png');
+		}
 	#col2, #col3 {
 		margin-left: 10px;
 		}
 		
 	#col2 {
-		background: url('images/blue_box.png');
+		
 		}
 		
 	#col3 {
