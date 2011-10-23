@@ -258,28 +258,12 @@ p, h1, h2, h3, h4, h5, h6 {
 		}
 	
 	
-	#col1, #col2, #col3 {
-		float:left; 
-		width:300px;
-		height:250px;
-		margin: 10px 0 10px 0;
-		padding:0;
-	}	
-	#col1 { margin-left: 20px;
-		background: url('images/blue_box.png');
-		}
-	#col2, #col3 {
-		margin-left: 10px;
-		}
-		
 	#col2 {
-		
+		float:left; 
+		margin: 20px 20px 40px 20px;
+		padding:0;
+		width:600px;
 		}
-		
-	#col3 {
-		
-		}
-		
 	
 	#p-list {
 		float:left;
