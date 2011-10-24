@@ -59,7 +59,9 @@
         		</ul>
         	</div>
         	
-        	<div id="p-standard">
+			<span id="rb-detail" class="ribbon"><div class="intro-title" style="margin-left:30px;">Chi tiết</div></span>
+        	
+			<div id="p-standard">
         		<img src="images/pricing/raovat.png"/>
         		<img src="images/pricing/nhadat.png"/>
 				<img src="images/pricing/thoitrang.png"/>
@@ -139,6 +141,7 @@ email</li>
     		$('#p-enterprise').hide();
     		$('#p-optional').hide();
     		$('#p-note').hide();
+			$('#rb-detail').hide();
     		
     		//standard clicked
   			$("#standard").click(function(event){
@@ -147,6 +150,7 @@ email</li>
   				$('#p-enterprise').hide(1000);
   				$('#p-optional').hide(1000);
   				$('#p-note').show(2000);
+				$('#rb-detail').show();
   				event.preventDefault();
   			});
   				
@@ -157,6 +161,7 @@ email</li>
   				$('#p-standard').hide(1000);
   				$('#p-optional').hide(1000);
   				$('#p-note').show(2000);
+				$('#rb-detail').show();
   				event.preventDefault();
   			});
   				
@@ -167,6 +172,7 @@ email</li>
   				$('#p-enterprise').hide(1000);
   				$('#p-standard').hide(1000);
   				$('#p-note').show(2000);
+				$('#rb-detail').show();
   				event.preventDefault();
   			});
 			});
