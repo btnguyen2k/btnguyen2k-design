@@ -426,7 +426,7 @@ p, h1, h2, h3, h4, h5, h6 {
 		
 	.ls-item {
 		width:100%;
-		margin:5px 5px 5px 20px;
+		margin:5px 5px 0 20px;
 		float:left;
 		}
 		
@@ -434,8 +434,7 @@ p, h1, h2, h3, h4, h5, h6 {
 		width:100px;
 		float:left;
 		font-size: 15px;
-		text-transform:uppercase;
-		margin-top:50px;
+		margin-top:10px;
 		}
 		
 	.ls-thumb {
@@ -524,13 +523,28 @@ p, h1, h2, h3, h4, h5, h6 {
 			}
 		
 		#price-detail li {
-			padding:0 110px;
+			padding:0 100px;
 			}
 		
 		#price-detail li a {
 			float:left;
 			display: block;
 			text-transform: uppercase;
+			font-family: AptimaBold;
+			font-weight:bold;
+			font-size:18px;
+			border-bottom: 1px dotted;
+			}
+		
+		#price-detail li a:hover {
+			float:left;
+			display: block;
+			text-transform: uppercase;
+			font-family: AptimaBold;
+			font-weight:bold;
+			font-size:18px;
+			color:green;
+			border-bottom: 1px dotted;
 			}
 			
 		#p-standard, #p-enterprise, #p-optional, #p-note {
