@@ -413,9 +413,7 @@ p, h1, h2, h3, h4, h5, h6 {
 	width:300px;
 	margin: 20px 10px 20px 0;
 	}
-	
-	.live-support {}
-	
+		
 	.ls-title {
 		font-size:16px;
 		font-weight:bold;
@@ -440,9 +438,23 @@ p, h1, h2, h3, h4, h5, h6 {
 	.ls-thumb {
 		float:left;
 		width: 140px;
-		
 		}
-		
+	
+	.test-item {
+		margin: 15px 0;
+		}
+	.test-quote {
+		font-size:12px;
+		font-style:italic;
+		}
+	
+	.test-author {
+		font-size:12px;
+		font-style:italic;
+		font-weight:bold;
+		text-align:right;
+		}
+	
 		#price-list{
 		width: 100%;
 		float:left;
