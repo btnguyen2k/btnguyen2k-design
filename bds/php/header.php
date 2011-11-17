@@ -19,10 +19,12 @@
 <meta name="msnbot" content="all"/>
 
 <link rel='stylesheet' type='text/css' href="style.css"/>
-<script type='text/javascript' src="js/config.js"></script>
-<script type='text/javascript' src="js/ufo.js"></script>
-<script type='text/javascript' src="js/jquery-1.4.2.min.html"></script>
-<script type='text/javascript' src="js/jquery.jcarousel.min.html"></script>
+<link rel="stylesheet" href="slider/slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="slider/themes/default/default.css" type="text/css" media="screen" />
+
+
+<script type='text/javascript' src="js/jquery-1.6.1.min.js"></script>
+
 </head>
 <body>
 
@@ -53,10 +55,13 @@
 		</div> <!-- END .header_connect -->
 		
 		<div class='header_menu'>
-			<a href='trangchu.html' class='mnu_current'>TRANG CHỦ</a>
-			<a href='gioithieu.html' class='hover1'>GIỚI THIỆU</a>
-			<a href='tintuc.html' class='hover1'>TIN TỨC</a>
-			<a href='dichvu.html' class='hover1'>DỊCH VỤ</a>
-			<a href='lienhe.html' class='hover1'>LIÊN HỆ</a>
+			<a href='index' class='mnu_current'>TRANG CHỦ</a>
+			<a href='intro' class='hover1'>GIỚI THIỆU</a>
+			<a href='projects' class='hover1'>DỰ ÁN</a>
+			<a href='news' class='hover1'>TIN TỨC</a>
+			<a href='ebrochure' class='hover1'>E-BROCHURE</a>
+			<a href='/contact' class='hover1'>LIÊN HỆ</a>
 		</div>
 	</div>
+	
+	<div class='wrapper_top'></div>
