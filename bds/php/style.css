@@ -65,7 +65,7 @@ a.hover4:link, a.hover4:visited, a.hover4:hover
 a.hover4:hover
 	{
 	color:#fff;
-	text-decoration:underline;
+	text-decoration:none;
 	}		
 .wrapper
 	{
