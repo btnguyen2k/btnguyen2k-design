@@ -4,7 +4,7 @@ body
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:12px;
 	color:#333;
-	background:url(images/bg_body.jpg) fixed;
+	background:url(images/fc.jpg) fixed;
 	}
 img
 	{
@@ -465,4 +465,15 @@ a.paging_current
 	{
 	width:127px;
 	border:0px;
+	}
+	
+#slider {
+	background-color:#ccc; 
+	width:900px;
+	height:550px;
+	}
+	
+	#slider img {
+		border:none;
+		height:550px;
 	}
