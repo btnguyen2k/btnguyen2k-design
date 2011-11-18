@@ -1,6 +1,5 @@
 <?php require_once('header.php');?>
 
-<div class='wrapper_top'></div>
 
 <div class='wrapper_body'>
 	<div class='inside_left'>
