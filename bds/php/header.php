@@ -32,6 +32,9 @@
 <div class='wrapper'>
 
 	<div class='header'>
+    	<div class="logo">
+        	<a href="/"><img src="images/logo.png" width="250" height="40" /></a>
+        </div>
 		<div class='header_connect'>
 			<a href='mailto:khoatrongnguyen77@yahoo.com'>
 				<img src='images/icon_email.png' alt='Email liên hệ' title='Email liên hệ' class='img_connect' />
