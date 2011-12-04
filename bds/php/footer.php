@@ -16,10 +16,10 @@
  
 </div> <!-- END .wrapper -->
 
-
+<!--
 <script type='text/javascript' src="bannerSlideControl.js"></script>
 <div id='divAdLeft' class='sw_banner'><a href='http://www.thatlac.com.vn/' target='_blank'><img src='products/banner/Left_Biet_Dau_Nguon_coi.jpg' class='simg_style' alt='Biết đâu cội nguồn' title='Biết đâu cội nguồn' /></a></div><div id='divAdRight' class='sw_banner'><a href='lienhe.html' target='_blank'><img src='products/banner/Right_Nem_Chua_Nam_Thu.jpg' class='simg_style' alt='Nem chua Năm Thu' title='Nem chua Năm Thu' /></a></div>
-
+-->
 <script type="text/javascript" src="slider/jquery.slider.pack.js"></script>
 
 <script type="text/javascript">
@@ -31,7 +31,7 @@
     
 <script type='text/javascript'>
 <!--
-ShowAdDiv();
+//ShowAdDiv();
 -->
 
   

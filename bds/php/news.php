@@ -6,17 +6,17 @@
 	<div class='ins_news_list'>
 		<div class='wn_white'>
 			<div class='item_wrap'>
-				<a href='tintuc/13.html'><img src='images/tintuc/dau_xanh.jpg' class='img_news_list' alt='QUY TRÌNH LÀM BÁNH ÍT LÁ GAI' title='QUY TRÌNH LÀM BÁNH ÍT LÁ GAI' /></a>
+				<a href='tintuc/13.html'><img src='images/tintuc/dau_xanh.jpg' class='img_news_list' alt='' title='' /></a>
 				
 				<div class='itemspace'></div>
 				
 				<div class='item_info'>
 					<div class='item_info_name'>
-						<a href='tintuc/13.html' class='hover2'>QUY TRÌNH LÀM BÁNH ÍT LÁ GAI</a>
+						<a href='tintuc/13.html' class='hover2'></a>
 					</div>
 					
 					<div class='item_info_des'>
-						Đậu xanh làm nhân bánh cũng chọn loại một, đều hạt, không lẫn hạt vàng, hạt đen, hạt hư. Nếu để lẫn thì nhân bánh làm ra không nhuyễn. Dừa dùng để làm nhân bánh, chọn trái dừa già tới...
+						Leman C.T Plaza vươn mình 24 tầng cao giữa Trung tâm Quận 3 bên một khuôn viên thoáng đãng có hai mặt tiền đường Trương Định và Nguyễn Đình Chiểu, vùng đất ngọc ngà của vô số cửa hàng thời trang, nhà hàng...
 					</div>
 				</div>
 			</div>
@@ -31,7 +31,7 @@
 					</div>
 					
 					<div class='item_info_des'>
-						Việc "nhái" và ăn theo thương hiệu trong kinh doanh   ẩm thực đã có từ lâu và nay đang trở nên phổ biến. Một số   chủ nhà hàng, quán ăn dần ý thức việc bảo vệ thương hiệu...
+						Việc "nhái" và ăn theo thương hiệu trong kinh doanh   ẩm thực đã có từ lâu và nay đang trở nên phổ biến. Một số   chủ nhà hàng, quán ăn dần ý thức việc bảo vệ thương hiệu...
 					</div>
 				</div>
 				

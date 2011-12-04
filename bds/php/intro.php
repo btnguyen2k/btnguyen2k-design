@@ -3,7 +3,7 @@
 
 <div class='wrapper_body'>
 	<div class='inside_left'>
-		<img src="images/intro_img.jpg" />
+		<img src="images/gioithieu.jpg" />
 
 		
 
@@ -11,21 +11,19 @@
 
 
 	<div class='inside_right'>
-		<div class='ins_title_gioithieu'></div>
+		<div class='ins_title_gioithieu'>GIỚI THIỆU</div>
 		
 		<div class='ins_content'>
-			<p>Ngày nay khi có nhu cầu về giao dịch nhà đất cũng như tìm kiếm các thông tin liên quan tới lĩnh vực này thì internet luôn là một lựa chọn tốt và phổ biến nhất. Trong bối cảnh đó, website www.batdongsan.com.vn đã và đang không ngừng được củng cố và phát triển để trở thành kênh thông tin số 1 Việt Nam trong lĩnh vực nhà đất, bất động sản. Với lượng thông tin lớn, phong phú, liên tục được cập nhật cùng phong cách trình bày hợp lý, chuyên nghiệp và rất tiện sử dụng. Website mang đến cho người xem những thông tin mới nhất, đầy đủ nhất về thị trường nhà đất và các lĩnh vực liên quan: luật, xây dựng, nội – ngoại thất, kiến trúc, phong thủy. Hiện nay, mỗi ngày website có gần 90.000  lượt truy cập (visits) với  400.000 lượt xem trang (pageviews), hàng nghìn thông tin bất động sản và các tin bài mới nhất về thị trường nhà đất và các lĩnh vực liên quan được cập nhật liên tục. Đồng thời website cũng là nơi giới thiệu, quảng cáo cho các dự án nhà đất đã và sắp được triển khai như: dự án khu đô thị mới, cao ốc văn phòng, căn hộ, khách sạn, khu nghỉ dưỡng, trung tâm thương mại, khu công nghiệp…
-Các dịch vụ chính:
-- Đăng thông tin quảng cáo nhà đất.</p>
-			<p>Địa chỉ liên hệ:
-			  CÔNG TY CỔ PHẦN BẤT ĐỘNG SẢN B.D.S			  </p>
-			<p>Phòng 1604, Tòa nhà 101 Láng Hạ, Q.Đống Đa, TP Hà Nội			  </p>
-			<p>Tel: (84) 043-562-5940, (84) 043-562-5939			  </p>
-			<p>Fax: (84) 043-941-0964, (84) 043-562-5844			  </p>
-			<p>Mobile: 0936 365 158			  </p>
-			<p>Email:hotro@batdongsan.com.vn			  </p>
-		  <p>Website: http://www.batdongsan.com.vn</p>
-
+			<p>Với tâm quyết mang đến sự hài lòng đến Khách hàng, Chúng Tôi những đội ngũ chuyên gia trẻ trung năng động am hiểu về lĩnh vực Bất động sản sẻ không ngừng tìm kiếm những sản phẩm phù hợp nhu cầu của bạn và các Cơ hội đầu tư cực kì tốt trong từng thời điểm.<br />
+			  Bạn sẻ tìm thấy nơi chia sẻ thông tin đầu tư nhà đất đáng tin cậy nhất. Và hơn nữa chúng Tôi cũng thấu hiểu rằng:<br />
+			  Bạn đang tìm kiếm nơi đầu tư an tòan về pháp lý và tỷ suất sinh lợi cao ?<br />
+			  Bạn đang muốn thể hiện đẳng cấp Doanh Nhân, Nghệ Sỹ của mình bằng những ngôi nhà  xứng tầm với giá trị mà có thể &quot;Ngàn vàng truyền đời con&quot; ngay tại trung tâm Đất Sài Thành?<br />
+			  Bạn là Vịệt Kiều xa xứ mong muốn sở hửu căn nhà tại Quê Hương của mình?<br />
+			  Bạn là CBCNV, Gia đình trẻ, Người đang lập nghịêp và đang mong mỏi tổ ấm tiện nghi , an ninh và văn minh với thu nhập văn phòng của mình?<br />
+			  Chúng Tôi thấu hiểu điều bạn đang mong muốn và sẳn sàng sẻ chia điều đó.<br />
+			  Đến với Chúng Tôi những đội ngũ chuyên gia về lĩnh vực BDS  mọi mong muốn của bạn sẻ thành hiện thực.<br />
+			  Với phương châm hợp tác lâu dài, trải nghiệm và tin cậy, chúng Tôi tự hào là người bạn đồng hành bên bạn về lĩnh vực BDS.<br />
+		   Chân thành cám ơn Qúy Khách hang đã ghé thăm trang web này của Chúng Tôi.</p>
 		</div>
 	</div>
 	

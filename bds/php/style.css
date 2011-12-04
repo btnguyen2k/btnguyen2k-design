@@ -184,8 +184,11 @@ a.hover4:hover
 	}
 .ins_title_gioithieu, .ins_title_dichvu, .ins_title_lienhe, .ins_title_phanhoi, .ins_title_tintuc
 	{
-	height:53px;
-	font-size:1pt;
+		
+	height:28px;
+	font-size:22px;
+	margin:0 0 20px 15px;
+	border-bottom:1px solid #333;
 	}
 .ins_title_tintuc
 	{
@@ -194,19 +197,19 @@ a.hover4:hover
 	}	
 .ins_title_gioithieu
 	{
-	background:url(images/title_gioithieu.png) no-repeat;
+	/*background:url(images/title_gioithieu.png) no-repeat;*/
 	}
 .ins_title_dichvu
 	{
-	background:url(images/title_dichvu.png) no-repeat;
+	/*background:url(images/title_dichvu.png) no-repeat;*/
 	}
 .ins_title_lienhe
 	{
-	background:url(images/title_lienhe.png) no-repeat;
+	/*background:url(images/title_lienhe.png) no-repeat;*/
 	}
 .ins_title_phanhoi
 	{
-	background:url(images/title_lienhe.png) no-repeat;
+	/*background:url(images/title_lienhe.png) no-repeat;*/
 	}
 .ins_name
 	{
@@ -290,7 +293,7 @@ a.hover4:hover
 .wn_white, .wn_green
 	{
 	float:left;
-	width:425px;
+	width:450px;
 	height:100px;
 	overflow:hidden;
 	}
@@ -300,7 +303,7 @@ a.hover4:hover
 	}
 .item_wrap
 	{
-	margin:9px 11px;
+	/*margin:9px 11px;*/
 	}
 .img_news_list, .ins_thumb
 	{
