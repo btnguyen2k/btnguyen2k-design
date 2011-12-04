@@ -61,7 +61,7 @@
 			<a href='index' class='mnu_current'>TRANG CHỦ</a>
 			<a href='intro' class='hover1'>GIỚI THIỆU</a>
 			<a href='projects' class='hover1'>DỰ ÁN</a>
-			<a href='news' class='hover1'>TIN TỨC</a>
+			<!--<a href='news' class='hover1'>TIN TỨC</a>-->
 			<a href='ebrochure' class='hover1'>E-BROCHURE</a>
 			<a href='/contact' class='hover1'>LIÊN HỆ</a>
 		</div>
