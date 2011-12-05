@@ -1,7 +1,7 @@
 <div class='wrapper_bottom'></div>
 
 <div class='footer'>
-	<div>
+	<!--<div>
 		<strong>banhitlagai.com © 2011</strong><br />
 		184/22 Đặng Văn Ngữ <br />
 		Phường 14, Q. Phú Nhuận, TP. HCM<br />
@@ -11,7 +11,7 @@
 	<div>Đang truy cập: 2  | Tổng truy cập : 5904	</div>
 	<div>
 		<a href='http://www.sadavi.com/' target='_blank' class='hover4'>Designed by Sadavi</a>
-	</div>
+	</div>-->
 </div> <!-- END .footer -->
  
 </div> <!-- END .wrapper -->

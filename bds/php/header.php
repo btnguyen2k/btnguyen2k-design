@@ -3,17 +3,17 @@
 
 <head>
 
-<title id='title'>Banh ít lá gai - Nho hoai khong quen - Bánh ít lá gai</title>
+<title id='title'>Cty TNHH Bất Động Sản CT Group</title>
 
 <meta http-equiv='content-type' content="text/html;charset=utf-8"/>
 <meta id='description' name='description' content="" />
-<meta name='copyright' content="Copyright 2010 - banhitlagai.com" />
+<meta name='copyright' content="Copyright 2011 - bds.com" />
 <meta name='keywords' content="" />
 <meta http-equiv='refresh' content="3600"/>
 <meta http-equiv="Content-Language" content="en-us" />
 <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.7)"/>
 <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.7)"/>
-<meta name="author" content="Sadavi Co., Ltd - http://www.sadavi.com"/>
+<meta name="author" content="VietCoding - http://vietcoding.com"/>
 <meta name="robots" content="all"/>
 <meta name="googlebot" content="all"/>
 <meta name="msnbot" content="all"/>
@@ -35,6 +35,7 @@
     	<div class="logo">
         	<a href="/"><img src="images/logo.png" width="250" height="40" /></a>
         </div>
+      <!--  
 		<div class='header_connect'>
 			<a href='mailto:khoatrongnguyen77@yahoo.com'>
 				<img src='images/icon_email.png' alt='Email liên hệ' title='Email liên hệ' class='img_connect' />
@@ -55,15 +56,15 @@
 			<a href='http://www.youtube.com/watch?v=q_bDkvzqud0' target='_blank'>
 				<img src='images/icon_youtube.png' alt='Youtube'  title='Youtube' class='img_connect'  />
 			</a>
-		</div> <!-- END .header_connect -->
+		</div> --><!-- END .header_connect -->
 		
-		<div class='header_menu'>
-			<a href='index' class='mnu_current'>TRANG CHỦ</a>
-			<a href='intro' class='hover1'>GIỚI THIỆU</a>
-			<a href='projects' class='hover1'>DỰ ÁN</a>
+		<div class='header_menu' style="float:right; margin-top:60px;">
+			<a href='index.php' class='mnu_current'>TRANG CHỦ</a>
+			<a href='intro.php' class='hover1'>GIỚI THIỆU</a>
+			<a href='projects.php' class='hover1'>DỰ ÁN</a>
 			<!--<a href='news' class='hover1'>TIN TỨC</a>-->
-			<a href='ebrochure' class='hover1'>E-BROCHURE</a>
-			<a href='/contact' class='hover1'>LIÊN HỆ</a>
+			<a href='ebrochure.php' class='hover1'>E-BROCHURE</a>
+			<a href='contact.php' class='hover1'>LIÊN HỆ</a>
 		</div>
 	</div>
 	
